@@ -18,7 +18,7 @@ Este é um projeto desenvolvido como parte do desafio proposto pela Rocketseat. 
 ## Acesso ao Projeto
 
 - **Link do Projeto no Figma:** [Figma](https://www.figma.com/file/cqQgQCRRc3keEvyn5gnxKj/Explore-sem-limites-(Copy)?type=design&node-id=0%3A1&mode=design&t=pCxXk6ZzQhMx5F5x-1)
-- **Link do Projeto Ao Vivo:** [Projeto Ao Vivo](https://vitinho163.github.io/Explore-sem-limites)
+- **Link do Projeto Ao Vivo:** [Projeto Ao Vivo](https://vitinho163.github.io/Explore-sem-Limites)
 
 ## Como Utilizar o Projeto
 
